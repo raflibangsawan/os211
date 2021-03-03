@@ -3,3 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 15 L03 GitHub related
 ZCZC W00 80 L02 Zoom (class)
+ZCZC W01 120 L02 Zoom (class)
+L05 W01 15 GSGS related
+ZCZC W01 45 L21 Setup VirtualBox and Installed Debian
