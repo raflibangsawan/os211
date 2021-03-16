@@ -46,3 +46,12 @@ ZCZC W01 60 L05 GSGS related (Exploring some basic CLI commands)
 ZCZC W01 75 L17 Assignment #7 (searching for top 10 links)
 ZCZC W01 5 L10 Set up README.md and set up w01.md
 
+# Week 2
+ZCZC W02 80 L02 ZOOM related (Class)
+ZCZC W02 60 L01 SCELE Related (Standby Quiz W02)
+ZCZC W02 30 L05 GSGS related (searching for some terms about os security)
+ZCZC W02 30 L06 Reading References/Books/Documents (learning some things for assignment)
+ZCZC W02 30 L23 Discord Related (Quiz)
+ZCZC W02 15 L10 Assignment (generate a GPG key + importing and exporting public key)
+ZCZC W02 300 L10 (read some reference online (from sites, article ets) and watch some os-related video on youtube)
+ZCZC W02 25 L12 Tried some w02's demos
