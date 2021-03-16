@@ -5,7 +5,7 @@ Operating Systems 2021-1 (Semester Genap 2020/2021)
 
 ## Top 10 List of the Week
 [Week 01](https://raflibangsawan.github.io/os211/W01) <br>
-Week 02 <br>
+[Week 02](https://raflibangsawan.github.io/os211/W02) <br>
 Week 03 <br>
 Week 04 <br>
 Week 05 <br>
