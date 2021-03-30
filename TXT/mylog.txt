@@ -63,3 +63,13 @@ ZCZC W03 25 L05 GSGS related (searching for tarball)
 ZCZC W03 180 L10 Assignment related (checking .bash_aliases, try demos, extract tarball file etc)
 ZCZC W03 300 L10 (read some reference online (from sites, article ets) and watch some os-related video on youtube)
 ZCZC W03 10 L14 Making top 3 neighboor's github Pages
+
+# Week 4
+ZCZC W04 120 L02 Zoom (class 24 March 2021)
+ZCZC W04 10 L01 SCELE Related (Quiz W04)
+ZCZC W04 30 L05 GSGS related
+ZCZC W04 180 L10 Assignment General
+ZCZC W04 300 L10 (read some reference online (from sites, article ets) and watch some os-related video on youtube)
+ZCZC W04 10 L14 Making top 3 neighboor's github Pages
+ZCZC W04 30 L23 Quiz on Discord
+ZCZC W04 10 L14 Making top 3 neighboor's github Pages
