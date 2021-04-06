@@ -73,3 +73,13 @@ ZCZC W04 300 L10 (read some reference online (from sites, article ets) and watch
 ZCZC W04 10 L14 Making top 3 neighboor's github Pages
 ZCZC W04 30 L23 Quiz on Discord
 ZCZC W04 10 L14 Making top 3 neighboor's github Pages
+
+# Week 5
+ZCZC W05 110 L02 Zoom (class 1 April 2021)
+ZCZC W05 150 L10 Assignment General (Searching for this weeks top 10 links, found 4 links)
+ZCZC W05 60 L10 Assignment General (Extracting tarball and ran bash)
+ZCZC W05 30 L05 GSGS related (How to copy image from windows to linux vbox)
+ZCZC W05 30 L03 GitHub related (Fixing the git corrupted file and merge conflicts)
+ZCZC W05 200 L10 (Finishing the top 10 links)
+ZCZC W05 10 L14 Making top 3 neighboor's github Pages
+ZCZC W05 30 L23 Quiz on Discord
