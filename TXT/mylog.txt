@@ -40,8 +40,14 @@ ZCZC W06 100 L02 Zoom (class 7 April 2021)
 ZCZC W06 30 L01 SCELE related (Quiz)
 ZCZC W06 180 L10 Assignment General (Searching for this weeks top 10 links, found some links)
 ZCZC W06 60 L10 Assignment General (Extracting tarball and ran bash)
-ZCZC W05 30 L05 GSGS related (how to fix a corrupted git file)
-ZCZC W05 30 L03 GitHub related (Fixing the git corrupted file yeah my git gets corrupted AGAIN :( )
+ZCZC W06 30 L05 GSGS related (how to fix a corrupted git file)
+ZCZC W06 30 L03 GitHub related (Fixing the git corrupted file yeah my git gets corrupted AGAIN :( )
 ZCZC W06 20 L03 GitHub related (merging some conflicts)
-ZCZC W05 200 L10 (Finishing the top 10 links)
-ZCZC W05 15 L14 Making top 3 neighboor's github Pages
+ZCZC W06 200 L10 (Finishing the top 10 links)
+ZCZC W06 15 L14 Making top 3 neighboor's github Pages
+ZCZC W07 100 L02 Zoom (Sync session)
+ZCZC W07 35 L01 SCELE related (Quiz)
+ZCZC W07 200 L10 Assignment General (Searching for this weeks top 10 links, found some links)
+ZCZC W07 60 L10 Assignment General (Extracting tarball and ran bash)
+ZCZC W07 200 L10 (Finishing the top 10 links)
+ZCZC W07 15 L14 Making top 3 neighboor's github Pages
