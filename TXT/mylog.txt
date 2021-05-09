@@ -51,3 +51,10 @@ ZCZC W07 200 L10 Assignment General (Searching for this weeks top 10 links, foun
 ZCZC W07 60 L10 Assignment General (Extracting tarball and ran bash)
 ZCZC W07 200 L10 (Finishing the top 10 links)
 ZCZC W07 15 L14 Making top 3 neighboor's github Pages
+ZCZC W08 100 L02 ZOOM related (synchronous class)
+ZCZC W08 40 L01 SCELE related (Quiz)
+ZCZC W08 200 L10 Assignment (downloaded new OVA, tried LFS chapt 0 - 1)
+ZCZC W08 210 L10 Assignment (Tried LFS chapt 2-4)
+ZCZC W08 45 L05 GSGS related
+ZCZC W08 5 L14 Making top 3 neighboor's github Pages
+ZCZC W07 200 L10 Assignment (Finishing the top 10 links and w08 tasks)
